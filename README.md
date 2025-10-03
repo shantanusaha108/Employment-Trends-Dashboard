@@ -56,5 +56,5 @@ These slicers allow users to filter the data and explore different aspects of th
 1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).  
 2. Clone this repository:
    ```bash
-   git clone https://github.com/shantanusaha108/Job_Market_Analytics_Dashboard_Power_BI>.git
-   cd <Job_Market_Analytics_Dashboard_Power_BI>
+   git clone https://github.com/shantanusaha108/Job_Market_Analytics_Dashboard_Power_BI
+   cd Job_Market_Analytics_Dashboard_Power_BI
